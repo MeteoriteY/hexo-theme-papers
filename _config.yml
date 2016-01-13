@@ -123,7 +123,7 @@ deploy:
 backup:
   type: git
   theme: hexo-theme-papers  #back up with your theme
-  message: update :year/:month/:day/
+  message: update @ 2016/01/14
   repository:
-      github: git@github.com:MeteoriteY/hexo-theme-papers,Blog-backup
+      github: git@github.com:MeteoriteY/MeteoriteY.github.io,blog-backup
       #gitcafe: git@github.com:xxx/xxx.git,branchName
